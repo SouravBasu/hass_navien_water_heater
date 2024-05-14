@@ -6,7 +6,7 @@ To install this integration, you can use HACS to perform the installation or you
 
 To install the integration with HACS:
 1. Navigate to HACS and add a custom repository  
-    **URL:** https://github.com/nikshriv/hass_navien_water_heater
+    **URL:** https://github.com/SouravBasu/hass_navien_water_heater
     **Category:** Integration
 2. Install module as usual
 3. Restart Home Assistant
