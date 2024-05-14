@@ -3,7 +3,7 @@
   "name": "Navien NaviLink Water Heater Integration",
   "version": "1.0.1",
   "config_flow": true,
-  "documentation": "https://www.github.com/nikshriv/hass_navien_water_heater",
+  "documentation": "https://www.github.com/SouravBasu/hass_navien_water_heater",
   "requirements": ["AWSIoTPythonSDK"],
   "ssdp": [],
   "zeroconf": [],
